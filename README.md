@@ -4,9 +4,9 @@
 
 ## Why?
 
-Together with a group of friends we are season ticket holders of Alba Berlin, i.e. we split the home games between all of us. Hence we need a calendar with just the home games, so that we can then mark in the calendar events who is going to which game.
+With a group of friends we share season ticket for Alba Berlin, i.e. we split the home games between us. Hence we need a calendar with just the home games, so that we can mark in the calendar events who is going to which game.
 
-Every year I am creating this calendar manually. This year I got annoyed with this, so I am automating this now :) Scratch your own itch!
+Every year I am creating this calendar manually. This year I got annoyed with this, so I decided to automate this :) Scratching my own itch!
 
 ## Create a Calendar
 
@@ -21,4 +21,4 @@ ruby create_homegame_calendar.rb a29dcd34.f637522e-c1d948eb.ics > alba-homegame-
 
 3. Import `homegame-calendar.ics` into your favorite calendar app of choice.
 
-Enjoy the ALBA home pages :)
+Enjoy the ALBA home games. See you there :)
