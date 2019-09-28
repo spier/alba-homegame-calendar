@@ -8,6 +8,15 @@ Together with a group of friends we are season ticket holders of Alba Berlin, i.
 
 Every year I am creating this calendar manually. This year I got annoyed with this, so I am automating this now :) Scratch your own itch!
 
-## Status
+## Create a Calendar
 
-In the making!
+1. Download [game schedule (calendar)](https://calovo.de/f/albaberlin/spielplan) from calovo.de.
+e.g. `a29dcd34.f637522e-c1d948eb.ics`
+
+2. Run the script:
+
+	  ruby create_homegame_calendar.rb a29dcd34.f637522e-c1d948eb.ics > alba-homegame-calendar.ics
+
+3. Import `homegame-calendar.ics` into your favorite calendar app of choice.
+
+Enjoy the ALBA home pages :)
