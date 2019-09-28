@@ -15,7 +15,9 @@ e.g. `a29dcd34.f637522e-c1d948eb.ics`
 
 2. Run the script:
 
-	  ruby create_homegame_calendar.rb a29dcd34.f637522e-c1d948eb.ics > alba-homegame-calendar.ics
+```
+ruby create_homegame_calendar.rb a29dcd34.f637522e-c1d948eb.ics > alba-homegame-calendar.ics
+```
 
 3. Import `homegame-calendar.ics` into your favorite calendar app of choice.
 
