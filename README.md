@@ -8,7 +8,7 @@ With a group of friends we share season ticket for Alba Berlin, i.e. we split th
 
 Every year I am creating this calendar manually. This year I got annoyed with this, so I decided to automate this :) Scratching my own itch!
 
-## Create a Calendar
+## How to create the home game calendar?
 
 1. Download [game schedule (calendar)](https://calovo.de/f/albaberlin/spielplan) from calovo.de.
 e.g. `a29dcd34.f637522e-c1d948eb.ics`
