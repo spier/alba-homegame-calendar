@@ -34,7 +34,7 @@ def filter_homegames_and_cleanup(cal)
     event.location.sub!("calovo.de | ","") # removing calovo commercials
     event.url = nil # removing calovo commercials
 
-    # move the game day information o the `description` field
+    # move the game day information to the 'description' field
     match = / (\d+\. Spieltag)/.match(event.summary)
     if match
       event.description = match[1]
