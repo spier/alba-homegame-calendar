@@ -19,6 +19,6 @@ e.g. `a29dcd34.f637522e-c1d948eb.ics`
 ruby create_homegame_calendar.rb a29dcd34.f637522e-c1d948eb.ics > alba-homegame-calendar.ics
 ```
 
-3. Import `homegame-calendar.ics` into your favorite calendar app of choice.
+3. Import `alba-homegame-calendar.ics` into your favorite calendar app of choice.
 
 Enjoy the ALBA home games. See you there :)

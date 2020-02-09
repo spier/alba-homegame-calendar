@@ -16,7 +16,7 @@ end
 
 def get_cal(filename)
   # Open a file or pass a string to the parser
-  cal_file = File.open("a29dcd34.f637522e-c1d948eb.ics")
+  cal_file = File.open(filename)
 
   # Parser returns an array of events because a single file
   # can have multiple events.
@@ -69,7 +69,7 @@ if ARGV.length < 1
   exit
 end
 
-filename = ARGV[1]
+filename = ARGV[0]
 
 cal = get_cal(filename)
 # debug_cal(cal)
